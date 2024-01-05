@@ -1,1 +1,1 @@
-[seejnn.pages.dev](https://seejnn.pages.dev)
+[dev.seejnn.com](https://dev.seejnn.com)
